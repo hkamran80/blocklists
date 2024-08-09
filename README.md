@@ -1,20 +1,19 @@
 # Blocklists
 
-This is a collection of blocklists that I use. Please contribute to these domains
-if you would like.
+This is a collection of blocklists that I use and maintain. Please contribute to these domains by submitting issues or pull requests.
 
 ## Lists
 
-| Name     | File             | Raw                                                                         |
-|----------|------------------|-----------------------------------------------------------------------------|
-| Smart TV | [File](smart-tv) | [Raw](https://raw.githubusercontent.com/hkamran80/blocklists/main/smart-tv) |
+| Name     | File                 | Raw                                                                             |
+|----------|----------------------|---------------------------------------------------------------------------------|
+| Smart TV | [File](smart-tv.txt) | [Raw](https://raw.githubusercontent.com/hkamran80/blocklists/main/smart-tv.txt) |
 
 ## License
 
 ```text
 MIT License
 
-Copyright (c) 2023 H. Kamran
+Copyright (c) 2023-2024 H. Kamran
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
