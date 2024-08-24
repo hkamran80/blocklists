@@ -37,10 +37,10 @@ ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
 flingo.tv
 
 # LG
-us.rdx2.lgtvsdp.com
+#us.rdx2.lgtvsdp.com
 us.info.lgsmartad.com
 us.ibs.lgappstv.com
-us.lgtvsdp.com
+#us.lgtvsdp.com
 ad.lgappstv.com
 smartshare.lgtvsdp.com
 ibis.lgappstv.com
