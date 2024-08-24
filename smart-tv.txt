@@ -1,5 +1,5 @@
 # Smart TV Blocklist
-# Last updated: October 5, 2023
+# Last updated: August 23, 2024
 
 # This is a blocklist to block Smart TVs sending data home.
 # Please contribute domains, either by issues or PRs.
