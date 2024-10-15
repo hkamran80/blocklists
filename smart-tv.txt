@@ -1,5 +1,5 @@
 # Smart TV Blocklist
-# Last updated: September 11, 2024
+# Last updated: October 14, 2024
 
 # This is a blocklist to block Smart TVs sending data home.
 # Please contribute domains, either by issues or PRs.
@@ -143,7 +143,6 @@ cdn.samsungcloudsolution.com
 oempprd.samsungcloudsolution.com
 time.samsungcloudsolution.com
 lcprd1.samsungcloudsolution.net
-eu-auth2.samsungosp.com
 img-resize-cdn-prod.samsungnyc.com
 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
 osb-v2.samsungqbe.com
@@ -177,7 +176,7 @@ api-tv.spotify.com
 api.distribution.hulu.com
 
 # Sharp Smart TV using Opera OS (thanks to sml156)
-# These may be needed for software/firmware update's, not sure if it's one or both but the first one try's thousands of times a day to connect.
+# These may be needed for software/firmware update's, not sure if it's one or both but the first one tries thousands of times a day to connect.
 api.us.hismarttv.com
 api.euro.hismarttv.com
 
@@ -186,7 +185,6 @@ arcus-uswest.amazon.com
 avs-alexa-19-eu.amazon.com
 dcape-na.amazon.com
 aviary.amazon.de
-api.eu.amazonalexa.com
 mas-ext-eu.amazon.com
 mads-eu.amazon.com
 dp-gw-na.amazon.com
@@ -195,7 +193,6 @@ aviary.amazon.com
 o2r2hew432.execute-api.us-east-1.amazonaws.com
 andr-25-aftkmst12-641002610.api.amazonvideo.com
 prod.amazoncrl.com
-arcus-uswest.amazon.com
 
 # Xioami Mi TV
 mitv.tracking.intl.miui.com
