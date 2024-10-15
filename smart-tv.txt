@@ -120,10 +120,9 @@ smartclip.net
 smartclip.com
 
 # Philips
-deviceportal.nettvservices.com
-epg.corio.com
 legacyportal.nettvservices.com
 nettv.corio.com
+ad.nettvservices.com
 
 # Samsung
 device-metrics-us.amazon.com
