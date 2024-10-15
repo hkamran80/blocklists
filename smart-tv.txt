@@ -257,9 +257,21 @@ customerevents.netflix.com
 # Hulu
 api.distribution.hulu.com
 
-# Sharp Smart TV using Opera OS (thanks to sml156)
+# Hisense
+api-gps-em.hismarttv.com
+auth-em.hismarttv.com
+msg-em.hismarttv.com
+api-launcher-em.hismarttv.com
+auth-launcher-em.hismarttv.com
+api-gps-na.hismarttv.com
+auth-na.hismarttv.com
+msg-na.hismarttv.com
+api-launcher-na.hismarttv.com
+auth-launcher-na.hismarttv.com
+unified-ter-na.hismarttv.com
 # These may be needed for software/firmware update's, not sure if it's one or both but the first one tries thousands of times a day to connect.
 api.us.hismarttv.com
+api.eu.hismarttv.com
 api.euro.hismarttv.com
 
 # Fire TV
@@ -283,16 +295,24 @@ data.mistat.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 
 # Roku
-static.doubleclick.net
-track.sr.roku.com
 p.ads.roku.com
 bif.sr.roku.com
 traces.sr.roku.com
+track.sr.roku.com
 amarillo.sb.roku.com
+logs.roku.com
+austin.logs.roku.com
 cooper.logs.roku.com
+liberty.logs.roku.com
+midland.logs.roku.com
+mobile.logs.roku.com
 scribe.logs.roku.com
 
+ravm.tv
+display.ravm.tv
+
 # Other
+static.doubleclick.net
 get.geo.opera.com
 xml.opera.com
 itv.ard.de
@@ -314,3 +334,5 @@ tvinteractive.tv
 tvx.adgrx.com
 events.cid.samba.tv
 platform.cid.samba.tv
+7345023508.fxmconnect.com
+7345023508.fxm9485766783.com
