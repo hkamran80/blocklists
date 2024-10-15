@@ -253,7 +253,6 @@ tvx.adgrx.com
 
 # Netflix
 customerevents.netflix.com
-nrdp.nccp.netflix.com
 
 # Spotify
 api-tv.spotify.com
