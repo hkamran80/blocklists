@@ -55,7 +55,6 @@ mhc-sec-us.myhomescreen.tv
 mhc-sec-eu.myhomescreen.tv
 
 # Sony Bravia
-ssm1.internet.sony.tv
 bravia.dl.playstation.net
 api-mf1.meta.ndmdhs.com
 sonybivstatic-a.akamaihd.net
@@ -64,6 +63,12 @@ call.me.sel.sony.com
 ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
 ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
 flingo.tv
+facemap.foldlife.net
+bdcore-apr-lb.bda.ndmdhs.com
+tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
+api.cid.samba.tv
+preferences.cid.samba.tv
+bravia-cfgdst-ore-pro.bda.ndmdhs.com
 
 # LG
 #us.rdx2.lgtvsdp.com
