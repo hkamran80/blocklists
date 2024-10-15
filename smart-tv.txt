@@ -313,18 +313,9 @@ display.ravm.tv
 
 # Other
 static.doubleclick.net
-get.geo.opera.com
 xml.opera.com
-itv.ard.de
-cert-test.sandbox.google.com
 googleads.g.doubleclick.net
-hbbtv.redbutton.de
-hbbtv.zdf.de
-drscdn.500px.org
 tv-static.scdn.co
-apicache.vudu.com
-tv.deezer.com
-cdns-content.dzcdn.net
 nbc-jite.nbcuni.com
 control-zoo-dtsstage.tvinteractive.tv
 coordinator-production-28516768.us-east-1.elb.amazonaws.com
