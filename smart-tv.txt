@@ -6,7 +6,6 @@
 
 # Panasonic Viera
 x2.vindicosuite.com
-vcs.vdspf.com
 mhc-ajax-us.myhomescreen.tv
 mhc-ajax-eu.myhomescreen.tv
 mhc-sec-us.myhomescreen.tv
