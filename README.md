@@ -12,7 +12,7 @@ to these domains by submitting issues or pull requests.
 > [!IMPORTANT]
 > If you have not switched from `smart-tv` (the extensionless version of the
 > blocklist), switch before January 1, 2025. The file will be deleted on that
-> date.
+> date. If you are using `smart-tv.txt`, you can disregard this message.
 
 ## License
 
