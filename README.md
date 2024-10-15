@@ -1,12 +1,18 @@
 # Blocklists
 
-This is a collection of blocklists that I use and maintain. Please contribute to these domains by submitting issues or pull requests.
+This is a collection of blocklists that I use and maintain. Please contribute
+to these domains by submitting issues or pull requests.
 
 ## Lists
 
 | Name     | File                 | Raw                                                                             |
 |----------|----------------------|---------------------------------------------------------------------------------|
 | Smart TV | [File](smart-tv.txt) | [Raw](https://raw.githubusercontent.com/hkamran80/blocklists/main/smart-tv.txt) |
+
+> [!IMPORTANT]
+> If you have not switched from `smart-tv` (the extensionless version of the
+> blocklist), switch before January 1, 2025. The file will be deleted on that
+> date.
 
 ## License
 
