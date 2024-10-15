@@ -4,8 +4,10 @@
 # This is a blocklist to block Smart TVs sending data home.
 # Please contribute domains, either by issues or PRs.
 
-# Amazon
+# General
 device-metrics-us.amazon.com
+static.doubleclick.net
+googleads.g.doubleclick.net
 
 # Panasonic Viera
 x2.vindicosuite.com
@@ -70,6 +72,8 @@ facemap.foldlife.net
 bdcore-apr-lb.bda.ndmdhs.com
 tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
 api.cid.samba.tv
+events.cid.samba.tv
+platform.cid.samba.tv
 preferences.cid.samba.tv
 bravia-cfgdst-ore-pro.bda.ndmdhs.com
 
@@ -117,6 +121,7 @@ smartshare.lgtvsdp.com
 
 aic-ngfts.lge.com
 lgad.cjpowercast.com
+edgesuite.net
 lgad.cjpowercast.com.edgesuite.net
 yumenetworks.com
 smartclip.net
@@ -179,6 +184,7 @@ game.internetat.tv
 log.internetat.tv
 sso.internetat.tv
 
+coordinator-production-28516768.us-east-1.elb.amazonaws.com
 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 syncplusconfig.s3.amazonaws.com
 vd.emp.prd.s3.amazonaws.com
@@ -312,18 +318,32 @@ ravm.tv
 display.ravm.tv
 
 # Other
-static.doubleclick.net
-xml.opera.com
-googleads.g.doubleclick.net
-tv-static.scdn.co
-nbc-jite.nbcuni.com
-control-zoo-dtsstage.tvinteractive.tv
-coordinator-production-28516768.us-east-1.elb.amazonaws.com
-edgesuite.net
-lgad.cjpowercast.com
-tvinteractive.tv
-tvx.adgrx.com
-events.cid.samba.tv
-platform.cid.samba.tv
 7345023508.fxmconnect.com
 7345023508.fxm9485766783.com
+2mdn.net
+ad.71i.de
+adv.ettoday.net
+advertising.com
+alphonso.tv
+cdn.smartclip.net
+database01p.anixe.net
+de.ioam.de
+nbc-jite.nbcuni.com
+script.ioam.de
+start.digitaltext.rtl.de
+stats-irl.sxp.smartclip.net
+trvdp.com
+tv.ads.spotx.tv
+tv-static.scdn.co
+xml.opera.com
+
+redbutton-adproxy-lb-prod.redbutton.de
+redbutton-lb-prod.redbutton.de
+redbutton.sim-technik.de
+
+tvinteractive.tv
+control.tvinteractive.tv
+control2.tvinteractive.tv
+control-zoo-dtsstage.tvinteractive.tv
+mcp.tvinteractive.tv
+tvmeta-dynamic.tvinteractive.tv
