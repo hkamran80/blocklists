@@ -6,7 +6,6 @@
 
 # Panasonic Viera
 x2.vindicosuite.com
-occ-0-399-783.1.nflxso.net
 cert-test.sandbox.google.com
 vcs.vdspf.com
 mhc-ajax-us.myhomescreen.tv
