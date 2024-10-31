@@ -79,10 +79,12 @@ bravia-cfgdst-ore-pro.bda.ndmdhs.com
 
 # LG
 lgsmartad.com
-us.lgsmartad.com
+ad.lgsmartad.com
 us.ad.lgsmartad.com
+jp.ad.lgsmartad.com
 us.info.lgsmartad.com
 jp.info.lgsmartad.com
+us.lgsmartad.com
 
 ad.lgappstv.com
 ibis.lgappstv.com
