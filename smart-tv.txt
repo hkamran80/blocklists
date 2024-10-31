@@ -82,6 +82,7 @@ lgsmartad.com
 ad.lgsmartad.com
 us.ad.lgsmartad.com
 jp.ad.lgsmartad.com
+info.lgsmartad.com
 us.info.lgsmartad.com
 jp.info.lgsmartad.com
 us.lgsmartad.com
