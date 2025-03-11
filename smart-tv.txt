@@ -322,10 +322,11 @@ display.ravm.tv
 # TCL Tv Services
 ai.tclking.com
 leiniao.com
-www.baidu.com
 tcllauncher.com
 my7v.com
 huan.tv
+# Consider if you are using Baidu services or not to blacklist it here.
+# www.baidu.com
 
 # Other
 7345023508.fxmconnect.com
