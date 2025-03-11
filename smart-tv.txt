@@ -1,5 +1,5 @@
 # Smart TV Blocklist
-# Last updated: January 15, 2025
+# Last updated: March 11, 2025
 
 # This is a blocklist to block Smart TVs sending data home.
 # Please contribute domains, either by issues or PRs.
@@ -322,6 +322,11 @@ display.ravm.tv
 # TCL Tv Services
 ai.tclking.com
 leiniao.com
+tcllauncher.com
+my7v.com
+huan.tv
+# Consider if you are using Baidu services or not to blacklist it here.
+# www.baidu.com
 
 # Other
 7345023508.fxmconnect.com
