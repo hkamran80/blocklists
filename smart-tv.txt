@@ -1,5 +1,5 @@
 # Smart TV Blocklist
-# Last updated: September 15, 2025
+# Last updated: October 22, 2025
 
 # This is a blocklist to block Smart TVs sending data home.
 # Please contribute domains, either by issues or PRs.
@@ -325,7 +325,7 @@ leiniao.com
 tcllauncher.com
 my7v.com
 huan.tv
-cedock.com
+||cedock.com^
 # Consider if you are using Baidu services or not to blacklist it here.
 # www.baidu.com
 
